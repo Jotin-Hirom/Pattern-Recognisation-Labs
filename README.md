@@ -13,8 +13,6 @@ Pattern Recognition Applications ;
   •Text Categorization 
   •Information Retrieval  
   •Data Mining
-  •Information Retrieval  
-  •Data Mining  
 
 Machine Perception :
   • Build a machine that can recognize patterns:
